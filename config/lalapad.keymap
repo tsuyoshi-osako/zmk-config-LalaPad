@@ -191,7 +191,7 @@
 &lt 3 ESCAPE   &kp Q         &kp W         &kp E        &kp R          &kp T      &kp Y          &kp U        &kp I            &kp O             &kp P          &kp EQUAL
 &kp LA(GRAVE)  &kp A         &kp S         &kp D        &kp F          &kp G      &kp H          &kp J        &kp K            &kp L             &kp SEMICOLON  &kp MINUS
 &kp LSHFT      &kp Z         &kp X         &kp C        &kp V          &kp B      &kp N          &kp M        &kp COMMA        &kp PERIOD        &kp SLASH      &kp GRAVE
-&kp LCTRL      &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 SPACE  &kp BACKSPACE  &kp LC(C)  &kp LC(V)      &kp TAB      &lt 2 ENTER      &kp SINGLE_QUOTE  &kp LC(X)      &kp DELETE
+&kp LCTRL      &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 SPACE  &kp BACKSPACE  &kp LC(Z)  &kp LC(LS(Z))  &kp TAB      &lt 2 ENTER      &kp SINGLE_QUOTE  &kp LC(X)      &kp DELETE
                              &kp LSHFT     &kp LC(V)    &kp LC(X)      &kp LC(C)  &allow_pageup  &allow_home  &allow_pagedown  &allow_end
             >;
         };
